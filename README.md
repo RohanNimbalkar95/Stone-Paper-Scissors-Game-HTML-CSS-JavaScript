@@ -1,5 +1,5 @@
-Stone Paper Scissors Game
-A simple Stone Paper Scissors game built using HTML, CSS, and Vanilla JavaScript.
+🪨📄✂️ Stone Paper Scissors Game
+A simple Stone Paper Scissors game built using HTML, CSS, and  JavaScript.
 
 🚀 Features
 Interactive Stone Paper Scissors gameplay
