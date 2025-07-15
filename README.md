@@ -3,6 +3,7 @@
 A simple Stone Paper Scissors game built using HTML, CSS, and  JavaScript.
 
 🚀 Features
+
 Interactive Stone Paper Scissors gameplay
 
 DOM manipulation and event handling
